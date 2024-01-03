@@ -1,0 +1,16 @@
+#statusGame{
+    width: 100px;
+    height: 150px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+    padding: 10px;
+}
+
+#arrows{
+    width: 90px;
+}
